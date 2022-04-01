@@ -1,0 +1,1 @@
+# Command-line-Niesko-czony-straci-em-kod-z-gui.
